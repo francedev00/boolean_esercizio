@@ -1,0 +1,114 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+font-family: 'Noto Sans', sans-serif;
+
+}
+
+.contenitore{
+  background-color:rgba(0, 0, 0, 0.4);
+  border-radius: 2%;
+  margin: 2% auto auto;
+  width: 800px;
+  height: 550px;
+
+
+}
+
+header{
+   /* margin-left: auto;
+  margin-right: auto; */
+  text-align: center;
+
+}
+
+
+
+h2{
+      color: rgb(0, 221, 0);
+      margin-bottom: 2px;
+      margin-top: 5px;
+      /* margin-left: 31% */
+      padding-left: auto;
+
+}
+
+
+img{
+    width: 200px;
+    margin-top: 5%;
+    /* margin-left: 38%; */
+
+
+
+
+}
+
+
+
+.border{
+    width: 80%;
+    border: 5px solid;
+    color: rgb(0, 221, 0);
+    background-color: rgb(0, 221, 0);
+    margin: auto;
+
+}
+
+
+.bb{
+  margin-left: 27%;
+}
+
+
+li:first-child{
+
+
+    list-style: square;
+    margin-left: 7%;
+    font-weight: bold;
+
+
+}
+
+li{
+  color: white;
+  list-style-type: none;
+  margin-left: 5%;
+
+
+}
+
+
+
+
+li:first-child {
+  font-size: 20px;
+
+}
+
+
+.battery{
+  border: 10px solid;
+  border-radius: 5px;
+}
+
+
+.gino{
+    width: 40%;
+    color: orange;
+    background-color: orange;
+}
+
+.Mike{
+  width: 70%;
+  color: rgb(30,195,30);
+  background-color: rgb(30,195,30);
+}
+
+.Fede{
+  width: 20%;
+  color: rgb(190,65,65);
+  background-color: rgb(190,65,65);
+}
