@@ -1,0 +1,1 @@
+Ho provato ad usare molte volte margin e auto per centrare immagini e scritte, ma molte volte non ha funzionato. Per renderlo visibilmente il più simile possibile all'esempio ho dovuto usare center o calcolare px e % ad occhio
